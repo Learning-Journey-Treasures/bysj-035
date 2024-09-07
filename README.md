@@ -1,41 +1,31 @@
-# bysj-035
-
-#### 介绍
-基于SpringBoot的考研助手系统- 测试环境：idea2022，MySQL5.7
+# 基于SpringBoot的考研助手系统
+**项目经过本人本地测试，确保可以运行，项目仅用于学习或毕业设计参考~**
+# 1.项目简介
+- 测试环境：idea2022，MySQL5.7
 
 - 技术栈：SpringBoot， JSP，Vue.js，MyBatis
 
 - 角色：管理员，会员
 
-#### 软件架构
-软件架构说明
+# 2.项目部署
+-  导入数据库(使用navicat或者其他工具，我的数据库编码是utf8mb4，排序默认）
 
+-  按照你的数据库环境，修改代码
 
-#### 安装教程
+- 启动项目，门户地址：http://localhost:8080/kaoyanmis  账号密码：15797881233/123456
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- 后端管理web：http://localhost:8080/kaoyanmis/admin/login.jsp 账号密码：admin/admin  或者查看数据表
 
-#### 使用说明
+# 3.项目部分截图
+![输入图片说明](1.png)
+![输入图片说明](2.png)
+![输入图片说明](3.png)
+![输入图片说明](4.png)
+![输入图片说明](5.png)
+![输入图片说明](6.png)
+![输入图片说明](7.png)
+![输入图片说明](8.png)
+![输入图片说明](9.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# 4.获取方式
+获取方式：[戳我查看](https://gitee.com/aven999/mall)💕
